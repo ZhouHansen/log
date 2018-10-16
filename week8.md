@@ -1,11 +1,18 @@
 ## What did you do this week？
 Learned interior mutability.
+
 Learned [Dynamically Sized Types][1].
+
 Learned [how to pass vector of functions as arguments to function][2].
+
 Reviewed rust lifetime.
+
 Asked a question about lifetime[4]
+
 Reviewed lifsetime subtyping.
+
 Reviewed lifetime bounds.
+
 Worked on atomatic-batcher.
 
 ## What are you planning to do？
