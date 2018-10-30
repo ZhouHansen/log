@@ -13,6 +13,16 @@ Learned TDD.
 
 Built an async rust toy.
 
+Learned tail call.
+
+Built atomic-batcher(async)!
+
+Found react dev-tool.
+
+Learned react-app-rewired.
+
+Learned rewireEslint(for watcher).
+
 ## What are you planning to do？
 Learn async rust.
 
