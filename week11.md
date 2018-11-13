@@ -11,5 +11,6 @@ Save token to ~/.cargo/credentials.
 
 Learned redux/action and reducers.
 
-## What are you planning to do？
+Published the atomic-batcher!
 
+## What are you planning to do？
