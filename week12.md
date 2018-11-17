@@ -11,6 +11,14 @@ Learned returning instance itself from method can introduce chaining.
 
 Recap Digital signatures.
 
+Learned [rust benchmarks][https://github.com/japaric/criterion.rs]
+
+Red [Overcoming Intuition in Programming][https://amasad.me/intuition]
+
+Learned [thunk][https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559]
+
+Learned [nodejs event-loop][https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/]
+
 
 ## What are you planning to do？
 Dive into datproject once again!
