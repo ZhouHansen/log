@@ -19,7 +19,6 @@ Learned [thunk][https://stackoverflow.com/questions/35411423/how-to-dispatch-a-r
 
 Learned [nodejs event-loop][https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/]
 
-
 ## What are you planning to do？
 Dive into datproject once again!
 
