@@ -4,4 +4,6 @@ Started building rust-thunky.
 
 ## What are you planning to do？
 
+Learn React.
+
 ## questions
